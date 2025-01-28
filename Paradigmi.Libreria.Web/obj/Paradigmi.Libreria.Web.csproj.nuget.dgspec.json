@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Web\\Paradigmi.Libreria.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Application\\Paradigmi.Libreria.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Application\\Paradigmi.Libreria.Application.csproj",
+        "projectName": "Paradigmi.Libreria.Application",
+        "projectPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Application\\Paradigmi.Libreria.Application.csproj",
+        "packagesPath": "C:\\Users\\Giuli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\Paradigmi.Libreria.Models.csproj": {
+                "projectPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\Paradigmi.Libreria.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.35.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\Paradigmi.Libreria.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\Paradigmi.Libreria.Models.csproj",
+        "projectName": "Paradigmi.Libreria.Models",
+        "projectPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\Paradigmi.Libreria.Models.csproj",
+        "packagesPath": "C:\\Users\\Giuli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Web\\Paradigmi.Libreria.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Web\\Paradigmi.Libreria.Web.csproj",
+        "projectName": "Paradigmi.Libreria.Web",
+        "projectPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Web\\Paradigmi.Libreria.Web.csproj",
+        "packagesPath": "C:\\Users\\Giuli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Application\\Paradigmi.Libreria.Application.csproj": {
+                "projectPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Application\\Paradigmi.Libreria.Application.csproj"
+              },
+              "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\Paradigmi.Libreria.Models.csproj": {
+                "projectPath": "C:\\Users\\Giuli\\Desktop\\Esame Enterprise\\Paradigmi.Libreria\\Paradigmi.Libreria-main\\Paradigmi.Libreria.Models\\Paradigmi.Libreria.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

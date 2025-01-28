@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Paradigmi.Libreria.Web.props" />
+</Project>
