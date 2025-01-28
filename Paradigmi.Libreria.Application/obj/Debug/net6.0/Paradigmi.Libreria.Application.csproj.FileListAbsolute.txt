@@ -1,0 +1,15 @@
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\bin\Debug\net6.0\Paradigmi.Libreria.Application.deps.json
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\bin\Debug\net6.0\Paradigmi.Libreria.Application.dll
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\bin\Debug\net6.0\Paradigmi.Libreria.Application.pdb
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\bin\Debug\net6.0\Paradigmi.Libreria.Models.dll
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\bin\Debug\net6.0\Paradigmi.Libreria.Models.pdb
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigmi.Libreria.Application.csproj.AssemblyReference.cache
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigmi.Libreria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigmi.Libreria.Application.AssemblyInfoInputs.cache
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigmi.Libreria.Application.AssemblyInfo.cs
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigmi.Libreria.Application.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigm.2BCB7DF1.Up2Date
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigmi.Libreria.Application.dll
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\refint\Paradigmi.Libreria.Application.dll
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\Paradigmi.Libreria.Application.pdb
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Application\obj\Debug\net6.0\ref\Paradigmi.Libreria.Application.dll

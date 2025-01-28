@@ -1,0 +1,12 @@
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\bin\Debug\net6.0\Paradigmi.Libreria.Models.deps.json
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\bin\Debug\net6.0\Paradigmi.Libreria.Models.dll
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\bin\Debug\net6.0\Paradigmi.Libreria.Models.pdb
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\Paradigmi.Libreria.Models.csproj.AssemblyReference.cache
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\Paradigmi.Libreria.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\Paradigmi.Libreria.Models.AssemblyInfoInputs.cache
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\Paradigmi.Libreria.Models.AssemblyInfo.cs
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\Paradigmi.Libreria.Models.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\Paradigmi.Libreria.Models.dll
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\refint\Paradigmi.Libreria.Models.dll
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\Paradigmi.Libreria.Models.pdb
+C:\Users\Giuli\Desktop\Esame Enterprise\Paradigmi.Libreria\Paradigmi.Libreria-main\Paradigmi.Libreria.Models\obj\Debug\net6.0\ref\Paradigmi.Libreria.Models.dll
